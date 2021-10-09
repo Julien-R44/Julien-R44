@@ -25,7 +25,7 @@
   <img src ="https://img.shields.io/static/v1?label=&message=Electron&style=flat-square&logo=Electron&color=1D1F21&" />
 
 
-  <h4>Back end developpement 🐱‍👤</h4>
+  <h4>Back end developpement 💾</h4>
   <img src="https://img.shields.io/static/v1?label=&message=PHP&style=flat-square&logo=PHP&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Laravel&style=flat-square&logo=Laravel&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Node.JS&style=flat-square&logo=Node.JS&color=1D1F21&" />
@@ -47,7 +47,7 @@
   <h4> Hosting 💻</h4>
   <img src="https://img.shields.io/static/v1?label=&message=OVH&style=flat-square&logo=OVH&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Netlify&style=flat-square&logo=Netlify&color=1D1F21&" />
-  <img src="https://img.shields.io/static/v1?label=&message=WS&style=flat-square&logo=AmazonAWS&color=1D1F21&" />
+  <img src="https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&logo=AmazonAWS&color=1D1F21&" />
 
   <h4> Tools 🛠️</h4>
   <img src="https://img.shields.io/static/v1?label=&message=Linux&style=flat-square&logo=Linux&color=1D1F21&" />
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Draw.io&style=flat-square&logo=Diagrams.net&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Photoshop&style=flat-square&logo=adobePhotoshop&color=1D1F21&" />
 
-  <h4> Others 🐱‍👓</h4>
+  <h4> Others 🤓</h4>
   <img src="https://img.shields.io/static/v1?label=&message=Unity&style=flat-square&logo=Unity&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Blender&style=flat-square&logo=Blender&color=1D1F21&" />
   <img src="https://img.shields.io/static/v1?label=&message=Stripe&style=flat-square&logo=Stripe&color=1D1F21&" />
