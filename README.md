@@ -94,10 +94,14 @@
   <img src="https://img.shields.io/static/v1?label=&message=ZeroMQ&style=flat-square&logo=ZeroMQ&color=1D1F21&" />
 
   <h2>&#x1f4c8; GitHub Stats</h2>
+    
   <a href="https://github.com/Julien-R44">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien-r44&&hide=makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Julien-R44">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=julien-r44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
+  <br/><br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=julien-r44&theme=xcode" />
 </div>
