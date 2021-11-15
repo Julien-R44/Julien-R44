@@ -4,6 +4,9 @@
     I'm Julien, a passionate developer from France <img src="https://img.icons8.com/color/15/000000/france.png"/>. 
   </p>
 
+  <details>
+    <summary>Click here to see some fancy stuff</summary>
+
   <h2>🔧 Technologies & Tools</h2>
 
   <h4> Front end developpement 🚀 </h4>
@@ -104,4 +107,5 @@
   </a>
   <br/><br/>
   <img src="https://activity-graph.herokuapp.com/graph?username=julien-r44&theme=xcode" />
+  </details>
 </div>
