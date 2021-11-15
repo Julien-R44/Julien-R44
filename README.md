@@ -1,5 +1,5 @@
+## Hey ! 🤙
 <div align="">
-  <h1>Hey ! 🤙</h1>
   <p>
     I'm Julien, a passionate developer from France <img src="https://img.icons8.com/color/15/000000/france.png"/>. 
   </p>
