@@ -5,7 +5,7 @@
   </p>
 </div>
  
-⚡ My latest OSS projects
+⚡ **My latest OSS projects**
 - [Julien-R44/adonis-sail](https://github.com/Julien-R44/adonis-sail) - ⛵ Generate a ready-to-use docker environment for your Adonis application
 - [adonis-community/adonis-modules](https://github.com/adonisjs-community/adonis-modules) - 📦 Discover all AdonisJS packages developed by the community
 - [Julien-R44/adonis-grpc-consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - 🕸️ Adonis gRPC client provider for easily communicate with gRPC services.
