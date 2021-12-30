@@ -12,7 +12,8 @@
 - [Julien-R44/adonis5-prometheus](https://github.com/Julien-R44/adonis5-prometheus) - 📊 Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
 - [Julien-R44/cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
 - [Julien-R44/fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
- 
+- [Julien-R44/pino-loki](https://github.com/Julien-R44/pino-loki) - 🔉 This package provides a transport for Pino that forwards messages to Grafana Loki.
+
 <details>
   <summary>Click here to see some fancy stuff</summary>   
 <h2>🔧 Technologies & Tools</h2>
