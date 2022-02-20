@@ -35,6 +35,7 @@
         <img src ="https://img.shields.io/static/v1?label=&message=React&style=flat-square&logo=React&color=1D1F21&" />
         <img src ="https://img.shields.io/static/v1?label=&message=NextJS&style=flat-square&logo=Next.js&color=1D1F21&" />
         <img src ="https://img.shields.io/static/v1?label=&message=GraphQL&style=flat-square&logo=GraphQL&color=1D1F21&" />
+        <img src ="https://img.shields.io/static/v1?label=&message=Apollo&style=flat-square&logo=apollographql&color=1D1F21&" />
         <img src ="https://img.shields.io/static/v1?label=&message=Tailwind&style=flat-square&logo=TailwindCSS&color=1D1F21&" />
         <img src ="https://img.shields.io/static/v1?label=&message=WindiCSS&style=flat-square&logo=WindiCSS&color=1D1F21&" />
         <img src ="https://img.shields.io/static/v1?label=&message=PostCSS&style=flat-square&logo=PostCSS&color=1D1F21&" />
@@ -54,6 +55,8 @@
           <img src="https://img.shields.io/static/v1?label=&message=Fastify&style=flat-square&logo=Fastify&color=1D1F21&" />
           <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&style=flat-square&logo=PostgreSQL&color=1D1F21&" />
           <img src="https://img.shields.io/static/v1?label=&message=MySQL&style=flat-square&logo=MySQL&color=1D1F21&" />
+          <img src="https://img.shields.io/static/v1?label=&message=Hasura&style=flat-square&logo=hasura&color=1D1F21&" />
+          <img src="https://img.shields.io/static/v1?label=&message=GraphQL&style=flat-square&logo=GraphQL&color=1D1F21&" />
           <img src="https://img.shields.io/static/v1?label=&message=Timescale&style=flat-square&logo=Timescale&color=1D1F21&" />
           <img src="https://img.shields.io/static/v1?label=&message=InfluxDB&style=flat-square&logo=InfluxDB&color=1D1F21&" />
           <img src="https://img.shields.io/static/v1?label=&message=Redis&style=flat-square&logo=Redis&color=1D1F21&" />
