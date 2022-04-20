@@ -6,6 +6,7 @@
 </div>
  
 ⚡ **My latest OSS projects**
+- [Julien-R44/adonis-vscode-extension](https://github.com/Julien-R44/adonis-vscode-extension/tree/main/src) - 💻 VSCode Extension for AdonisJS
 - [Julien-R44/adoscope](https://github.com/Julien-R44/adoscope) - **[🚧 WIP]** 🔭 An elegant development assistant for your AdonisJS Application
 - [Julien-R44/pretty-list-routes](https://github.com/Julien-R44/pretty-list-routes) - 🛣️ A beautiful `list:routes` for AdonisJS
 - [Julien-R44/adonis-sail](https://github.com/Julien-R44/adonis-sail) - ⛵ Generate a ready-to-use docker environment for your Adonis application
