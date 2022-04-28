@@ -10,7 +10,7 @@
 - [Julien-R44/adoscope](https://github.com/Julien-R44/adoscope) - **[🚧 WIP]** 🔭 An elegant development assistant for your AdonisJS Application
 - [Julien-R44/pretty-list-routes](https://github.com/Julien-R44/pretty-list-routes) - 🛣️ A beautiful `list:routes` for AdonisJS
 - [Julien-R44/adonis-sail](https://github.com/Julien-R44/adonis-sail) - ⛵ Generate a ready-to-use docker environment for your Adonis application
-- [adonis-community/adonis-modules](https://github.com/adonisjs-community/adonis-modules) - 📦 Discover all AdonisJS packages developed by the community
+- [adonis-community/adonis-modules](https://github.com/adonisjs-community/adonis-packages) - 📦 Discover all AdonisJS packages developed by the community
 - [Julien-R44/adonis-grpc-consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - 🕸️ Adonis gRPC client provider for easily communicate with gRPC services.
 - [Julien-R44/adonis5-prometheus](https://github.com/Julien-R44/adonis5-prometheus) - 📊 Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
 - [Julien-R44/cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
