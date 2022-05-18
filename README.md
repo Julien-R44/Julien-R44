@@ -15,6 +15,7 @@
 - [Julien-R44/adonis5-prometheus](https://github.com/Julien-R44/adonis5-prometheus) - 📊 Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
 - [Julien-R44/cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
 - [Julien-R44/fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
+- [Julien-R44/gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 A small service that sends a notification on Slack when a release has been published on GitLab.
 - [Julien-R44/pino-loki](https://github.com/Julien-R44/pino-loki) - 🔉 This package provides a transport for Pino that forwards messages to Grafana Loki.
 - [Julien-R44/cron-expression-generator](https://github.com/Julien-R44/cron-expression-generator) - 🔧 Generate crontab expression using friendly and declarative API
 - [Julien-R44/socket.io-prometheus](https://github.com/Julien-R44/socket.io-prometheus-v3) - 📡 Exposes metrics endpoint for Prometheus to collect data about Socket.io v3.
