@@ -5,7 +5,7 @@
   </p>
 </div>
  
-⚡ **My latest OSS projects**
+⚡ **My latest open-source projects**
 - [adonis-vscode-extension](https://github.com/Julien-R44/adonis-vscode-extension) - 💻 VSCode Extension for AdonisJS
 - [adoscope](https://github.com/Julien-R44/adoscope) - **[🚧 WIP]** 🔭 An elegant development assistant for your AdonisJS Application
 - [pretty-list-routes](https://github.com/Julien-R44/pretty-list-routes) - 🛣️ A beautiful `list:routes` for AdonisJS
