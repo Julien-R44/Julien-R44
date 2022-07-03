@@ -9,6 +9,7 @@
 - [adonis-vscode-extension](https://github.com/Julien-R44/adonis-vscode-extension) - 💻 VSCode Extension for AdonisJS
 - [adoscope](https://github.com/Julien-R44/adoscope) - **[🚧 WIP]** 🔭 An elegant development assistant for your AdonisJS Application
 - [pretty-list-routes](https://github.com/Julien-R44/pretty-list-routes) - 🛣️ A beautiful `list:routes` for AdonisJS
+- [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
 - [adonis-sail](https://github.com/Julien-R44/adonis-sail) - ⛵ Generate a ready-to-use docker environment for your Adonis application
 - [adonis-packages](https://github.com/adonisjs-community/adonis-packages) - 📦 Discover all AdonisJS packages developed by the community
 - [adonis-grpc-consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - 🕸️ Adonis gRPC client provider for easily communicate with gRPC services.
