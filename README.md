@@ -6,21 +6,27 @@
 </div>
  
 ⚡ **My latest open-source projects**
-- [adonis-vscode-extension](https://github.com/Julien-R44/adonis-vscode-extension) - 💻 VSCode Extension for AdonisJS
-- [adoscope](https://github.com/Julien-R44/adoscope) - **[🚧 WIP]** 🔭 An elegant development assistant for your AdonisJS Application
-- [pretty-list-routes](https://github.com/Julien-R44/pretty-list-routes) - 🛣️ A beautiful `list:routes` for AdonisJS
-- [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
-- [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - 🏁 UnoCSS preset that integrates Hero Patterns.
-- [adonis-sail](https://github.com/Julien-R44/adonis-sail) - ⛵ Generate a ready-to-use docker environment for your Adonis application
-- [adonis-packages](https://github.com/adonisjs-community/adonis-packages) - 📦 Discover all AdonisJS packages developed by the community
-- [adonis-grpc-consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - 🕸️ Adonis gRPC client provider for easily communicate with gRPC services.
-- [adonis5-prometheus](https://github.com/Julien-R44/adonis5-prometheus) - 📊 Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
-- [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
-- [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
-- [gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 A small service that sends a notification on Slack when a release has been published on GitLab.
-- [pino-loki](https://github.com/Julien-R44/pino-loki) - 🔉 This package provides a transport for Pino that forwards messages to Grafana Loki.
-- [cron-expression-generator](https://github.com/Julien-R44/cron-expression-generator) - 🔧 Generate crontab expression using friendly and declarative API
-- [socket.io-prometheus](https://github.com/Julien-R44/socket.io-prometheus-v3) - 📡 Exposes metrics endpoint for Prometheus to collect data about Socket.io v3.
+
+- **AdonisJS**
+  - [adonis-vscode-extension](https://github.com/Julien-R44/adonis-vscode-extension) - 💻 VSCode Extension for AdonisJS
+  - [adoscope](https://github.com/Julien-R44/adoscope) - **[🚧 WIP]** 🔭 An elegant development assistant for your AdonisJS Application
+  - [pretty-list-routes](https://github.com/Julien-R44/pretty-list-routes) - 🛣️ A beautiful `list:routes` for AdonisJS
+  - [adonis-sail](https://github.com/Julien-R44/adonis-sail) - ⛵ Generate a ready-to-use docker environment for your Adonis application
+  - [adonis-packages](https://github.com/adonisjs-community/adonis-packages) - 📦 Discover all AdonisJS packages developed by the community
+  - [adonis-grpc-consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - 🕸️ Adonis gRPC client provider for easily communicate with gRPC services.
+  - [adonis5-prometheus](https://github.com/Julien-R44/adonis5-prometheus) - 📊 Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
+  
+- **UnoCSS**
+  - [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
+  - [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - 🏁 UnoCSS preset that integrates Hero Patterns.
+
+- **Misc**
+  - [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
+  - [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
+  - [gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 A small service that sends a notification on Slack when a release has been published on GitLab.
+  - [pino-loki](https://github.com/Julien-R44/pino-loki) - 🔉 This package provides a transport for Pino that forwards messages to Grafana Loki.
+  - [cron-expression-generator](https://github.com/Julien-R44/cron-expression-generator) - 🔧 Generate crontab expression using friendly and declarative API
+  - [socket.io-prometheus](https://github.com/Julien-R44/socket.io-prometheus-v3) - 📡 Exposes metrics endpoint for Prometheus to collect data about Socket.io v3.
 
 <details>
   <summary>📈 My GitHub Stats</summary> 
