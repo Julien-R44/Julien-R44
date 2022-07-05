@@ -20,6 +20,11 @@
   - [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
   - [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - 🏁 UnoCSS preset that integrates Hero Patterns.
 
+- **Presets & Configurations**
+  - [eslint-config](https://github.com/Julien-R44/eslint-config) - 👌 My custom Eslint settings
+  - [starter-ts](https://github.com/Julien-R44/starter-ts) - ⚙️ Starter template for TS library
+  - [gql-generator-full-blown-preset](https://github.com/Julien-R44/gql-generator-full-blown-preset) - 🛩 A cool and opinionated base configuration for graphql-code-generator
+  
 - **Misc**
   - [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
   - [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
