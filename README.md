@@ -19,11 +19,6 @@
 - **UnoCSS**
   - [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
   - [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - 🏁 UnoCSS preset that integrates Hero Patterns.
-
-- **Presets & Configurations**
-  - [eslint-config](https://github.com/Julien-R44/eslint-config) - 👌 My custom Eslint settings
-  - [starter-ts](https://github.com/Julien-R44/starter-ts) - ⚙️ Starter template for TS library
-  - [gql-generator-full-blown-preset](https://github.com/Julien-R44/gql-generator-full-blown-preset) - 🛩 A cool and opinionated base configuration for graphql-code-generator
   
 - **Misc**
   - [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
@@ -32,6 +27,11 @@
   - [pino-loki](https://github.com/Julien-R44/pino-loki) - 🔉 This package provides a transport for Pino that forwards messages to Grafana Loki.
   - [cron-expression-generator](https://github.com/Julien-R44/cron-expression-generator) - 🔧 Generate crontab expression using friendly and declarative API
   - [socket.io-prometheus](https://github.com/Julien-R44/socket.io-prometheus-v3) - 📡 Exposes metrics endpoint for Prometheus to collect data about Socket.io v3.
+  
+- **Presets & Configurations**
+  - [eslint-config](https://github.com/Julien-R44/eslint-config) - 👌 My custom Eslint settings
+  - [starter-ts](https://github.com/Julien-R44/starter-ts) - ⚙️ Starter template for TS library
+  - [gql-generator-full-blown-preset](https://github.com/Julien-R44/gql-generator-full-blown-preset) - 🛩 A cool and opinionated base configuration for graphql-code-generator
 
 <details>
   <summary>📈 My GitHub Stats</summary> 
