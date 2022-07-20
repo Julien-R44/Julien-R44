@@ -21,6 +21,7 @@
   - [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - 🏁 UnoCSS preset that integrates Hero Patterns.
   
 - **Misc**
+  - [lit-valtio-state](https://github.com/Julien-R44/lit-valtio-state) - 🏪 A simple state management library for Lit components
   - [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
   - [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config.
   - [gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 Webhook that send Slack notifications when a release has been published on GitLab.
