@@ -15,6 +15,7 @@
   - [adonis-packages](https://github.com/adonisjs-community/adonis-packages) - 📦 Discover all AdonisJS packages developed by the community
   - [adonis-grpc-consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - 🕸️ Adonis gRPC client provider for easily communicate with gRPC services.
   - [adonis5-prometheus](https://github.com/Julien-R44/adonis5-prometheus) - 📊 Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
+  - [edge-documentation](https://github.com/edge-js/edge.adonisjs.com) - 📰 The documentation website for [Edge](http://edge.adonisjs.com), a templating engine for Node.JS
   
 - **UnoCSS**
   - [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
