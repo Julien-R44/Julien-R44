@@ -26,6 +26,7 @@
   - [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config. 
 
 - **Misc**
+  - [japa-vscode](https://github.com/Julien-R44/japa-vscode) - 🧪 A Japa extension for VSCode
   - [module-methods-extractor](https://github.com/Julien-R44/module-methods-extractor) - 🪛 Utility module to extract public methods for a given default export.
   - [lit-valtio-state](https://github.com/Julien-R44/lit-valtio-state) - 🏪 A simple state management library for Lit components
   - [gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 Webhook that send Slack notifications when a release has been published on GitLab.
