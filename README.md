@@ -8,7 +8,6 @@
 ⚡ **My latest open-source projects**
 
 - **AdonisJS**
-  - [adonis-vscode-extension](https://github.com/Julien-R44/adonis-vscode-extension) - 💻 VSCode Extension for AdonisJS
   - [adoscope](https://github.com/Julien-R44/adoscope) - **[🚧 WIP]** 🔭 An elegant development assistant for your AdonisJS Application
   - [pretty-list-routes](https://github.com/Julien-R44/pretty-list-routes) - 🛣️ A beautiful `list:routes` for AdonisJS
   - [adonis-sail](https://github.com/Julien-R44/adonis-sail) - ⛵ Generate a ready-to-use docker environment for your Adonis application
@@ -16,6 +15,11 @@
   - [adonis-grpc-consumer](https://github.com/Julien-R44/adonis-grpc-consumer) - 🕸️ Adonis gRPC client provider for easily communicate with gRPC services.
   - [adonis5-prometheus](https://github.com/Julien-R44/adonis5-prometheus) - 📊 Prometheus Provider for Adonis 5 with some builtins metrics for monitoring your application.
   - [edge-documentation](https://github.com/edge-js/edge.adonisjs.com) - 📰 The documentation website for [Edge](http://edge.adonisjs.com), a templating engine for Node.JS
+  
+- **VSCode**
+  - [adonis-vscode-extension](https://github.com/Julien-R44/adonis-vscode-extension) - 💻 VSCode Extension for AdonisJS
+  - [japa-vscode](https://github.com/Julien-R44/japa-vscode) - 🧪 A Japa extension for VSCode
+  - [adonis-extension-pack](https://github.com/Julien-R44/adonis-extension-pack) - 📦 Collection of extensions for Adonis.js development
   
 - **UnoCSS**
   - [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
@@ -26,7 +30,6 @@
   - [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config. 
 
 - **Misc**
-  - [japa-vscode](https://github.com/Julien-R44/japa-vscode) - 🧪 A Japa extension for VSCode
   - [module-methods-extractor](https://github.com/Julien-R44/module-methods-extractor) - 🪛 Utility module to extract public methods for a given default export.
   - [lit-valtio-state](https://github.com/Julien-R44/lit-valtio-state) - 🏪 A simple state management library for Lit components
   - [gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 Webhook that send Slack notifications when a release has been published on GitLab.
