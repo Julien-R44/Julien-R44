@@ -24,6 +24,7 @@
 - **UnoCSS**
   - [unocss-preset-flowbite](https://github.com/Julien-R44/unocss-preset-flowbite) - 💅 An adaptation of Flowbite Tailwind plugin for UnoCSS
   - [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - 🏁 UnoCSS preset that integrates Hero Patterns.
+  - [unocss-preset-forms](https://github.com/Julien-R44/unocss-preset-forms) - 📋 Port of @tailwindcss/forms for UnoCSS.
   
 - **Rust Crates**
   - [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
