@@ -32,6 +32,7 @@
 
 - **Misc**
   - [vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - ✅ Vite plugin for validating your environment variables
+  - [japa-database-plugin](https://github.com/Julien-R44/japa-database-plugin) - 💽 Database assertions and testing helpers for Japa
   - [module-methods-extractor](https://github.com/Julien-R44/module-methods-extractor) - 🪛 Utility module to extract public methods for a given default export.
   - [lit-valtio-state](https://github.com/Julien-R44/lit-valtio-state) - 🏪 A simple state management library for Lit components
   - [gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 Webhook that send Slack notifications when a release has been published on GitLab.
