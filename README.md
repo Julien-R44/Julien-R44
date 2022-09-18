@@ -31,6 +31,7 @@
   - [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config. 
 
 - **Misc**
+  - [factorio](https://github.com/Julien-R44/factorio) - 🏭 Framework-agnostic model factory system for clean testing
   - [vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - ✅ Vite plugin for validating your environment variables
   - [japa-database-plugin](https://github.com/Julien-R44/japa-database-plugin) - 💽 Database assertions and testing helpers for Japa
   - [module-methods-extractor](https://github.com/Julien-R44/module-methods-extractor) - 🪛 Utility module to extract public methods for a given default export.
