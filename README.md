@@ -26,14 +26,16 @@
   - [unocss-preset-heropatterns](https://github.com/Julien-R44/unocss-preset-heropatterns) - 🏁 UnoCSS preset that integrates Hero Patterns.
   - [unocss-preset-forms](https://github.com/Julien-R44/unocss-preset-forms) - 📋 Port of @tailwindcss/forms for UnoCSS.
   
+- **Testing**
+  - [factorify](https://github.com/Julien-R44/factorio) - 🏭 Framework-agnostic model factory system for clean testing
+  - [japa-database-plugin](https://github.com/Julien-R44/japa-database-plugin) - 💽 Database assertions and testing helpers for Japa
+
 - **Rust Crates**
   - [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
   - [fast-ssh](https://github.com/Julien-R44/fast-ssh) - ⌨️ FastSSH is a TUI that allows you to quickly connect to your services by navigating through your SSH config. 
 
 - **Misc**
-  - [factorio](https://github.com/Julien-R44/factorio) - 🏭 Framework-agnostic model factory system for clean testing
   - [vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - ✅ Vite plugin for validating your environment variables
-  - [japa-database-plugin](https://github.com/Julien-R44/japa-database-plugin) - 💽 Database assertions and testing helpers for Japa
   - [module-methods-extractor](https://github.com/Julien-R44/module-methods-extractor) - 🪛 Utility module to extract public methods for a given default export.
   - [lit-valtio-state](https://github.com/Julien-R44/lit-valtio-state) - 🏪 A simple state management library for Lit components
   - [gitlab-slack-release-notifier](https://github.com/Julien-R44/gitlab-slack-release-notifier) - 🤖 Webhook that send Slack notifications when a release has been published on GitLab.
