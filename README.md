@@ -44,7 +44,7 @@
   - [socket.io-prometheus](https://github.com/Julien-R44/socket.io-prometheus-v3) - 📡 Exposes metrics endpoint for Prometheus to collect data about Socket.io v3.
   
 - **Presets & Configurations**
-  - [eslint-config](https://github.com/Julien-R44/eslint-config) - 👌 My custom Eslint settings
+  - [tooling-configs](https://github.com/Julien-R44/tooling-configs) - 👌 My custom tooling configs ( ESLint, TS, Prettier ... )
   - [starter-ts](https://github.com/Julien-R44/starter-ts) - ⚙️ Starter template for TS library
   - [gql-generator-full-blown-preset](https://github.com/Julien-R44/gql-generator-full-blown-preset) - 🛩 A cool and opinionated base configuration for graphql-code-generator
 
