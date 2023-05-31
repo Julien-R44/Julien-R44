@@ -29,6 +29,7 @@
 - **Testing**
   - [factorify](https://github.com/Julien-R44/factorio) - 🏭 Framework-agnostic model factory system for clean testing
   - [japa-database-plugin](https://github.com/Julien-R44/japa-database-plugin) - 💽 Database assertions and testing helpers for Japa
+  - [@japa/snapshot](https://github.com/japa/snapshot) - 🧪 Snapshot testing plugin for Japa
 
 - **Rust Crates**
   - [cli-candlestick-chart](https://github.com/Julien-R44/cli-candlestick-chart) - 📈 Display candlestick charts right into your terminal.
